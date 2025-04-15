@@ -23,29 +23,9 @@ author: Brian Bird
 
 [TOC]
 
-# Introduction
+# Review
 
-## What's Coming
-
-**Due by this coming Sunday:**
-
-- Forum for questions related to the lecture (for online students or those who weren't in class or on Zoom during the lecture).
-- Elements of AI, Ch. 4, Machine Learning, Exercises. 
-  I'm changing the exercises assignment into a quiz with questions modeled after the exercise questions. No more screen-shots.
-- Quiz over the instructor's lectures.
-
-**Next week:**
-
-- No reading, exercises, or quiz.
-- Tuesday: We will cover the history of AI. Some questions about the history of AI will be on the midterm.
-  - A practice midterm will be available.
-
-- Thursday: the midterm quiz will be given in the classroom.
-- Wednesday and Thursday: the midterm will be available in the [Instructional Testing Services](https://www.lanecc.edu/get-support/academic-support/instructional-testing-services), Center Building, Room 311, from 9:00am to 5:00pm (but start the quiz at 3:00pm at the latest).
-
-## Review
-
-### Bayes' Rule
+## Bayes' Rule
 
 Bayes rule can be used to train a system on a data set such as:
 

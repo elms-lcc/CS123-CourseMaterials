@@ -23,18 +23,6 @@ author: Brian Bird
 
 [TOC]
 
-# Introduction
-
-## What's Happening
-
-All activities are due Sunday night, 10/13/24
-
-- Exercises for Ch. 2, "Problem Solving" in *Elements of AI*
-- Lecture Q and A forum for online students
-- Lecture quiz for everyone.
-
-Next week the first project will be due.
-
 # Problem Solving
 
 This is based on Ch. 2 of *Elements of AI*

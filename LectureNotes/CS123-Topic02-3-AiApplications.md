@@ -24,31 +24,6 @@ author: Brian Bird
 [TOC]
 
 # Introduction
-
-## What's Happening
-
-- Reading and exercises, any questions?
-
-  - You can ask on Discord too.
-  
-- This week's due dates:
-
-  - Introduce yourself survey: **Today**
-  - Join a team: Sunday **or sooner!** 
-    - **Join the Discord server** so you can communicate with your team.
-    
-  - Elements of AI Ch. 1 and 2 exercises: Sunday
-  - Quiz over the lectures: Sunday
-
-- Next week  
-  History of AI (lecture), Real world applications of AI (reading)
-
-  - No class on Thursday, July 4th
-  - Elements of AI Ch. 3 exercises: Sunday
-  - Quiz over the lecture: Sunday
-  - Team project on applications of AI: Sunday  
-    **Start working on this as soon as your team is formed.**
-
   
 
 ## Review

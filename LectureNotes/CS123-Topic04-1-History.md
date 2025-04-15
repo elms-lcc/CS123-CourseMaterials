@@ -23,20 +23,6 @@ author: Brian Bird
 
 [TOC]
 
-# Introduction
-
-## What's Happening this Week
-
-- Midterm Quiz
-  -  In the Instructional Testing center Wednesday and Thursday
-  - In class on Thursday
-
-- Due this Sunday:
-
-  - Week 4 questions, answers and comments forum posts
-    (Part of your participation grade)
-
-
 
 ## Marvin Minsky, ANNs and the MIT AI Lab
 

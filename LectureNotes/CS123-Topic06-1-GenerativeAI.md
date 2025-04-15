@@ -24,19 +24,6 @@ author: Brian Bird
 
 [TOC]
 
-# What's Happening this Week
-
-Due Sunday:
-
-- Forum post with questions, answers and comments for online students
-  (Part of your participation grade)
-
-- Exercises on Generative AI, based on the NY Times articles
-
-- Quiz over the lectures/recordings
-
-
-
 # Overview
 
 Generative AI is a subset of machine learning (ML) that is used for creating new content. Generative models use neural networks to generate data based on, but different from, the data they were trained on. 

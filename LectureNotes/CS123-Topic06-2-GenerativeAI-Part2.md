@@ -24,19 +24,6 @@ author: Brian Bird
 
 [TOC]
 
-## What's Happening this Week
-
-Due Sunday:
-
-- Forum post with questions, answers and comments for online students
-  (Part of your participation grade)
-- Exercises on Generative AI, based on the NY Times articles
-- Quiz over the lectures/recordings
-
-Due next Thursday:
-
-- Generative AI project
-
 ## Uses of Generative AI
 
 ### Types of Generative AI

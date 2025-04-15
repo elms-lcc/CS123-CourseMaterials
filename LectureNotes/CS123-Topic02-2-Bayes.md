@@ -24,13 +24,6 @@ author: Brian Bird
 
 [TOC]
 
-# What's Due This Week
-
-- Answer week 3 lecture questions (for online students): Sunday
-- Exercises based on Elements of AI, Ch. 3: Sunday
-- Quiz over the lectures: Sunday
-- Your report on AI applications in your field of interest: Sunday
-
 # Bayes' Rule
 
 *Bayes’ Rule* is a theorem in probability and statistics that describes a way to update the probabilities of predictions when given new evidence. It’s named after Thomas Bayes, who provided the first mathematical formulation of the rule in the eighteenth century (1763).

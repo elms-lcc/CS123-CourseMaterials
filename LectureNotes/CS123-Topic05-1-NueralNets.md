@@ -24,17 +24,6 @@ author: Brian Bird
 
 [TOC]
 
-# Introduction
-
-## What's Happening this Week
-
-Due this Sunday (the usual):
-
-- Forum post with questions, answers and comments for online students
-  (Part of your participation grade)
-- Exercises on Neural Networks
-- Quiz over the lectures
-
 # Artificial Neural Networks (ANN)
 
 ## Description

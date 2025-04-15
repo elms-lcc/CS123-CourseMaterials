@@ -23,24 +23,6 @@ author: Brian Bird
 
 [TOC]
 
-## Introduction
-
-### What's Happening this Week
-
-- Due Friday, 8/16 (the last day of the term) 
-
-  - Forum post with questions, answers and comments for online students
-    (Part of your participation grade)
-    
-
-  - Exercises based on Elements of AI Ch. 6, Implications
-
-
-- Final quiz
-- In the classroom, Thursday 8/15 at 10:00
-  - In the testing center, Wednesday 8/14 and Thursday 8/15 from 9:00am to 5:00pm
-
-
 ### Overview
 
 #### Potential benefits of AI
